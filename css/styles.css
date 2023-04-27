@@ -248,7 +248,7 @@ body {
 */
 
 .logo-studio-cloud {
-  /* color: var(--color-cloud); */
+  color: var(--color-cloud);
 }
 
 .footer-slogan {
@@ -337,4 +337,8 @@ height: 48px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-slate);
+}
+
+.footer-portfolio{
+  background-color: var(--color-navy-blue);
 }
