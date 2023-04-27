@@ -91,7 +91,7 @@ body {
 }
 
 .contact {
-  font-style: normal
+  font-style: normal;
 }
 .contact-email,
 .contact-phone-number {
@@ -102,7 +102,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-slate);
 }
-
 
 .contact-email:hover,
 .contact-email:focus {
@@ -240,6 +239,13 @@ body {
 |=== ---   /OUR TEAM SECTION
 |======================================================
 */
+.our-team-section {
+  background-color: VAR(--color-cloud);
+}
+
+.our-team-list {
+  background-color: var(--color-white);
+}
 
 /*
 |======================================================
@@ -338,7 +344,7 @@ height: 48px; */
   letter-spacing: 0.02em;
   color: var(--color-slate);
 }
-
-.footer-portfolio{
+.footer-portfolio,
+.footer-portfolio {
   background-color: var(--color-navy-blue);
 }
