@@ -243,7 +243,7 @@ background-color: var(--color-navy-blue-modal);
 
 */
 .our-team-section {
-  background-color: VAR(--color-cloud);
+  background-color: var(--color-cloud);
 }
 
 .our-team-list {
