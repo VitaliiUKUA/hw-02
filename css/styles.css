@@ -77,7 +77,10 @@ body {
   text-transform: lowercase;
 }
 
-.menu-link {
+.menu-link,
+.menu-studio-link,
+.menu-portfolio-link,
+.menu-contacts-link {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -86,7 +89,13 @@ body {
 }
 
 .menu-link:hover,
-.menu-link:focus {
+.menu-link:focus,
+.menu-studio-link:hover,
+.menu-studio-link:focus,
+.menu-portfolio-link:hover,
+.menu-portfolio-link:focus,
+.menu-contacts-link:hover,
+.menu-contacts-link:focus {
   color: var(--color-ocean);
 }
 
@@ -121,7 +130,7 @@ body {
 */
 
 .hero {
-background-color: var(--color-navy-blue-modal);
+  background-color: var(--color-navy-blue-modal);
 }
 
 .main-title {
