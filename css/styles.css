@@ -258,6 +258,10 @@ background-color: var(--color-navy-blue-modal);
   background-color: var(--color-white);
 }
 
+.our-team-item {
+  background-color: var(--color-white);
+}
+
 /*
 |======================================================
 |=== ---   /OUR TEAM SECTION
