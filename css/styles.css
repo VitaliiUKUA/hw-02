@@ -225,6 +225,14 @@ background-color: var(--color-navy-blue-modal);
 |======================================================
 */
 
+.we-doing {
+  background-color: var(--color-cloud);
+}
+
+.we-doing-list {
+  background-color: var(--color-white);
+}
+
 /*
 |======================================================
 |=== ---   OUR TEAM SECTION
