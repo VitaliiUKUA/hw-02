@@ -90,9 +90,9 @@ body {
   color: var(--color-ocean);
 }
 
-/* .contact {
+.contact {
   font-style: normal;
-} */
+}
 
 .contact-email,
 .contact-phone-number {
